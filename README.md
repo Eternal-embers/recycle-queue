@@ -63,11 +63,13 @@ void resizeQueue(Queue& Q, double percent) {
 
 ## 程序使用
 
-![队列扩张](./img/队列扩张.gif)
+![创建队列](./img/创建队列.png)
 
-![队列收缩](./img/队列收缩_1.gif)
+![入队](./img/入队.png)
 
-![模拟](./img/模拟.gif)
+![模拟](./img/模拟.png)
+
+![出队](./img/出队.png)
 
 ## 备注
 
